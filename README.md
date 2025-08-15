@@ -23,3 +23,33 @@ To run it put both scripts on your Desktop (your Desktop directory must be calle
   toshiba.sh - run 3 Terminal windows, each with SSH session to each HOST, then run `controlandcommand.sh`
   
   controlandcommand.sh - Ping your 3 hosts, print if they are ONLINE/OFFLINE in loop.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Thoughts:
+
+This code is fucking trash lol. I should made some kind of setup which will ask how many and what hostnames you want, check your terminal emulator etc. Just to make program more flexible and universal.
